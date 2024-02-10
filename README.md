@@ -1,7 +1,8 @@
 ![GitHub Banner](https://i.ibb.co/4PJh5VK/Github-banner.jpg)
 <h1 align="center">Hi 👋, I'm The Anh Tran</h1>
 <h3 align="center">I'm a passionate AI Software Developer from Vietnam. With a strong background in computer engineering and a focus on machine learning, I bring a unique blend of technical expertise and creativity to my projects.</h3>
-<img align="right" alt="Coding" width="500" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theanhtran372000&label=Profile%20views&color=0e75b6&style=flat" alt="theanhtran372000" /> </p>
 
 - 📫 How to reach me **trantheanh.ktmt@gmail.com**
